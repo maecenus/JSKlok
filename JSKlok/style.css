@@ -1,0 +1,13 @@
+/*Created by Erik Thornton 09/14/2016    */
+
+#time {
+        color: white;
+        font-size: 200px;
+        width: 100%;
+        position: relative;
+        text-align: center;
+        margin-bottom: 22%;
+        margin-top: 20%;
+        display: inline-block;
+}
+   
